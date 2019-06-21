@@ -1,0 +1,22 @@
+.footer {
+  padding: 10px 0;
+  background: #ECECEC;
+  overflow: hidden;
+
+  .footer--block {
+    a {
+      color: $colortheme;
+
+      span {
+        font-weight: bold;
+      }
+    }
+
+    .by {
+      font-size: 0.5em;
+      a {
+        color: #515151;
+      }
+    }
+  }
+}
