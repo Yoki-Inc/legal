@@ -32,3 +32,6 @@ repository: Yoki-Inc/legal
 plugins_dir:
   - jekyll-admin
   - jekyll-github-metadata
+
+include:
+  - _redirects
