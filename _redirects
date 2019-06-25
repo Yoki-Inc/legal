@@ -1,0 +1,2 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+http://legal.yoki.inc/* https://legal.yoki.inc/:splat 301!
