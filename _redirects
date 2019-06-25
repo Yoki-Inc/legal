@@ -1,5 +1,5 @@
-# These rules will change if you change your site’s custom domains or HTTPS settings
-http://legal.yoki.inc/* https://legal.yoki.inc/:splat 301!
-
-http://legal.yoki-jp.com/* https://legal.yoki.inc/:splat 301!
+# Redirect domain aliases to primary domain
 https://legal.yoki-jp.com/* https://legal.yoki.inc/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://jolly-wing-9062a6.netlify.com/* https://legal.yoki.inc/:splat 301!
