@@ -8,7 +8,7 @@ categories: start blog
 icon: 'file-text'
 ---
 
-| 販売者名 | LOGY運営事務局 |
+| | |
 |:-----------|:------------|
 | 販売者名 | LOGY運営事務局(株式会社Yoki 内) |
 | 運営統括責任者 | 東出 風馬 |
